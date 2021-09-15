@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaloyannbg
-- 👀 I’m interested in ... C , C++, PHP, CSS, HTML, JS, JQUERY, BOOTSTRAP.
+- 👀 I’m interested in ... PHP&MySQL, C , C++, , CSS, HTML, JS, JQUERY, BOOTSTRAP.
 - 🌱 I’m currently learning ... EVERYTHING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kaloqnlimitless@gmail.com
